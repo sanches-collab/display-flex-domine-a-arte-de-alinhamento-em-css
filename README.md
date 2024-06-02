@@ -28,7 +28,7 @@ Coloque 3 hashtags que façam sentido
  
 - 🚀 Ilustrações de capa:Gerada pela léxica.art
 
--📱 Edição:App do canva 
+- 📱 Edição:App do canva 
 Ícone CSS,da capa do artigo créditos ao Freepeak:https://www.flaticon.com/free-icons/css-3
 
 ## Contatos
