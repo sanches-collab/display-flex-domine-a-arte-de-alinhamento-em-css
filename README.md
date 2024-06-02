@@ -24,9 +24,9 @@ Coloque 3 hashtags que façam sentido
 
 ## Tecnologias Utilizadas
 
-🔥 Conteúdo: Gerado por chatgpt e revisão humana 
-🚀 Ilustrações de capa: Gerada pela léxica.art
-📱  Edição: App do canva 
+-🔥 Conteúdo: Gerado por chatgpt e revisão humana 
+-🚀 Ilustrações de capa: Gerada pela léxica.art
+-📱  Edição: App do canva 
 Ícone CSS,da capa do artigo créditos ao Freepeak:https://www.flaticon.com/free-icons/css-3
 
 ## Contatos
