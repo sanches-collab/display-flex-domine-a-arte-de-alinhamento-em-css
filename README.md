@@ -24,11 +24,14 @@ Coloque 3 hashtags que façam sentido
 
 ## Tecnologias Utilizadas
 
--🔥 Conteúdo: Gerado por chatgpt e revisão humana 
--🚀 Ilustrações de capa: Gerada pela léxica.art
--📱  Edição: App do canva 
+- 🔥 Conteúdo:Gerado por chatgpt e revisão humana
+ 
+- 🚀 Ilustrações de capa:Gerada pela léxica.art
+
+-📱 Edição:App do canva 
 Ícone CSS,da capa do artigo créditos ao Freepeak:https://www.flaticon.com/free-icons/css-3
 
 ## Contatos
- [![GitHub](https://img.shields.io/badge/GitHub-sanchescollab-purple?style=flat-square&logo=github)](https://github.com/sanches-collab)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-DenizeSanchesLopes-purple?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/DenizeSanchesLopes)
+-  [![GitHub](https://img.shields.io/badge/GitHub-sanchescollab-purple?style=flat-square&logo=github)](https://github.com/sanches-collab)
+
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-DenizeSanchesLopes-purple?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/DenizeSanchesLopes)
